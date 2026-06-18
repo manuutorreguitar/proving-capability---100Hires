@@ -52,23 +52,7 @@ A curated list of 10 experts and YouTube channels focused on newsletter strategy
 
 ---
 
-## 7. Lemlist
-
-- **YouTube Channel:** [https://www.youtube.com/@lemlist](https://www.youtube.com/@lemlist)
-- **Why Selected:** Lemlist is a multichannel outreach platform built for B2B teams. Their channel provides actionable playbooks for cold email campaigns with high reply rates, relevant to SaaS sales and marketing.
-- **Content Type:** Cold email templates, personalization at scale, multichannel outreach, B2B lead generation, and email deliverability tips.
-
----
-
-## 8. ActiveCampaign
-
-- **YouTube Channel:** [https://www.youtube.com/@ActiveCampaign](https://www.youtube.com/@ActiveCampaign)
-- **Why Selected:** ActiveCampaign is a leading marketing automation and email platform for SaaS. Their channel educates on advanced automation workflows, segmentation, and lifecycle email marketing — core to any B2B SaaS email strategy.
-- **Content Type:** Email automation, CRM integration, customer journey mapping, segmentation, drip campaigns, and platform tutorials.
-
----
-
-## 9. Dan Martell
+## 7. Dan Martell
 
 - **YouTube Channel:** [https://www.youtube.com/@DanMartell](https://www.youtube.com/@DanMartell)
 - **Why Selected:** SaaS coach and investor who advises hundreds of SaaS founders. His content on scaling email outreach, onboarding sequences, and customer success emails is directly applicable to B2B SaaS growth.
@@ -76,11 +60,27 @@ A curated list of 10 experts and YouTube channels focused on newsletter strategy
 
 ---
 
-## 10. Beehiiv
+## 8. Ann Handley
 
-- **YouTube Channel:** [https://www.youtube.com/@beehiiv](https://www.youtube.com/@beehiiv)
-- **Why Selected:** Beehiiv is a newsletter platform built for serious publishers and B2B brands. Their channel covers newsletter monetization, audience growth, and using newsletters as a primary B2B marketing channel — highly relevant for SaaS companies investing in owned media.
-- **Content Type:** Newsletter growth strategies, monetization, subscriber acquisition, B2B audience building, and platform tutorials.
+- **YouTube Channel:** [https://www.youtube.com/@AnnHandley](https://www.youtube.com/@AnnHandley)
+- **Why Selected:** Chief Content Officer at MarketingProfs and Wall Street Journal bestselling author of *Everybody Writes*. One of the most respected voices in B2B content and newsletter writing, with deep expertise in crafting emails that build genuine audience relationships.
+- **Content Type:** Newsletter writing, B2B storytelling, content strategy, and email voice and tone.
+
+---
+
+## 9. Louis Nicholls
+
+- **YouTube Channel:** [https://www.youtube.com/@louisnicholls_](https://www.youtube.com/@louisnicholls_)
+- **Why Selected:** Co-founder of SparkLoop, the leading newsletter referral platform. A practitioner-level expert in newsletter growth and monetization for B2B, with hands-on experience scaling paid and organic subscriber acquisition.
+- **Content Type:** Newsletter growth, referral systems, email list building, and subscriber monetization.
+
+---
+
+## 10. Matt McGarry
+
+- **YouTube Channel:** [https://www.youtube.com/@growletter](https://www.youtube.com/@growletter)
+- **Why Selected:** Founder of GrowLetter agency. Grew The Hustle newsletter from 1.3M to 2M+ subscribers. One of the most data-driven practitioners in newsletter growth strategy and monetization, with a track record across major B2B and B2C publications.
+- **Content Type:** Newsletter growth, paid acquisition, monetization frameworks, and scaling subscriber bases.
 
 ---
 

@@ -58,6 +58,17 @@ VIDEOS = [
     # Russell Brunson
     {"url": "https://www.youtube.com/watch?v=4Umi3PZlJeE", "author": "Russell Brunson"},
     {"url": "https://www.youtube.com/watch?v=dPA7643lbk4", "author": "Russell Brunson"},
+    # Dan Martell
+    {"url": "https://www.youtube.com/watch?v=PXl4tub30d0", "author": "Dan Martell"},
+    {"url": "https://www.youtube.com/watch?v=9BUY412vZcc", "author": "Dan Martell"},
+    # Ann Handley
+    {"url": "https://www.youtube.com/watch?v=Y18hiSY38WI", "author": "Ann Handley"},
+    # Louis Nicholls
+    {"url": "https://www.youtube.com/watch?v=-6as1PLJqjU", "author": "Louis Nicholls"},
+    # Matt McGarry
+    {"url": "https://www.youtube.com/watch?v=iPTvgtegMi8", "author": "Matt McGarry"},
+    {"url": "https://www.youtube.com/watch?v=ROTgawNlwLU", "author": "Matt McGarry"},
+    {"url": "https://www.youtube.com/watch?v=4mzV0AmAEKo", "author": "Matt McGarry"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -204,7 +215,7 @@ def main() -> None:
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     print(f"Output directory: {OUTPUT_DIR}\n")
 
-    success, failed = 0, 0
+    success, failed, skipped = 0, 0, 0
 
     for i, video in enumerate(videos, start=1):
         url = video.get("url", "").strip()
@@ -221,7 +232,14 @@ def main() -> None:
         title = get_video_title(url)
         print(f"  Title: {title}")
 
-        # 2. Download transcript
+        # 2. Skip if the transcript file already exists
+        expected_path = os.path.join(OUTPUT_DIR, f"{slugify(author)}_{slugify(title)}.md")
+        if os.path.exists(expected_path):
+            print(f"  Already exists, skipping.")
+            skipped += 1
+            continue
+
+        # 3. Download transcript
         print("  Fetching transcript...")
         try:
             data = fetch_transcript(url)
@@ -245,7 +263,7 @@ def main() -> None:
         print(f"  Saved → {filepath}")
         success += 1
 
-    print(f"\nDone. {success} saved, {failed} failed.")
+    print(f"\nDone. {success} saved, {skipped} skipped, {failed} failed.")
 
 
 if __name__ == "__main__":
