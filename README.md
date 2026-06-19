@@ -23,6 +23,7 @@ This is a portfolio research project for a Junior Growth Marketing Specialist po
 2. Curated a list of 10 experts on newsletter and email marketing for B2B SaaS
 3. Built a Python script (get_transcripts.py) using the Supadata API to automatically download YouTube transcripts
 4. Downloaded 24 video transcripts from 10 expert channels
+5. Manually collected 2 LinkedIn posts from expert sources
 
 ## Expert Sources
 Experts were selected based on:
@@ -50,7 +51,7 @@ Experts were selected based on:
 /research/
   sources.md                  — Full list of experts with links and annotations
   youtube-transcripts/        — 24 transcripts organized by author
-  linkedin-posts/             — LinkedIn posts (in progress)
+  linkedin-posts/             — 2 LinkedIn posts from Russell Brunson and Matt McGarry
   other/                      — Additional materials
 get_transcripts.py            — Script to download YouTube transcripts via Supadata API
 ```
