@@ -7,6 +7,7 @@ A curated list of 10 experts and YouTube channels focused on newsletter strategy
 ## 1. Russell Brunson
 
 - **YouTube Channel:** [https://www.youtube.com/@RussellBrunson](https://www.youtube.com/@RussellBrunson)
+- **LinkedIn:** https://www.linkedin.com/in/russellbrunson/
 - **Why Selected:** Founder of ClickFunnels and one of the most influential voices in direct-response email marketing. His frameworks around email sequences and list monetization are widely adopted in SaaS funnels.
 - **Content Type:** Funnel strategy, email copywriting, list building, sales automation, and direct-response marketing tutorials.
 
@@ -79,6 +80,7 @@ A curated list of 10 experts and YouTube channels focused on newsletter strategy
 ## 10. Matt McGarry
 
 - **YouTube Channel:** [https://www.youtube.com/@growletter](https://www.youtube.com/@growletter)
+- **LinkedIn:** https://www.linkedin.com/in/matt-mcgarry/
 - **Why Selected:** Founder of GrowLetter agency. Grew The Hustle newsletter from 1.3M to 2M+ subscribers. One of the most data-driven practitioners in newsletter growth strategy and monetization, with a track record across major B2B and B2C publications.
 - **Content Type:** Newsletter growth, paid acquisition, monetization frameworks, and scaling subscriber bases.
 
